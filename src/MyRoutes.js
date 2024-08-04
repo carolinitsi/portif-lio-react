@@ -4,7 +4,6 @@ import Me from './pages/Me/Me';
 import Projetos from './pages/Projetos/Projetos';
 import Header from './components/Header/Header';
 import Footer from './components/Footer/Footer';
-import Contato from './pages/Contato/Contato';
 
 function MyRoutes({theme}) {
     
@@ -12,8 +11,8 @@ function MyRoutes({theme}) {
         <BrowserRouter> 
             <Header/>
             <Routes>
-                <Route path='/' element={<Me theme={theme}/>} exact />
-                <Route path='/projetos' element={<Projetos theme={theme}/>} exact />
+                <Route path='/portif-lio-react' element={<Me theme={theme}/>} exact />
+                <Route path='/portif-lio-react/projetos' element={<Projetos theme={theme}/>} exact />
             </Routes>
             <Footer/>
         </BrowserRouter>

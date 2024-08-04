@@ -7,8 +7,8 @@ const Header = () => {
     return (
         <Container className="header">
             <Navigation>
-                <li><Link to="/">Me</Link></li>
-                <li><Link to="/projetos">Projetos</Link></li>
+                <li><Link to="/portif-lio-react/">Me</Link></li>
+                <li><Link to="/portif-lio-react/projetos">Projetos</Link></li>
             </Navigation>
         </Container>
     );
