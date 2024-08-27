@@ -14,6 +14,13 @@ export const Dados = [
         tecnologias: ["Html","Css","React"]
     },
     {
+        img: "form",
+        titulo: "Form",
+        descrição: "Projeto realizado para o estudo da tecnologia Vue, assim como o consumo de APIs.",
+        link: "https://carolinitsi.github.io/form-vue/",
+        tecnologias: ["Vue","Html","Css", "Axios"]
+    },
+    {
         img: "dark",
         titulo: "Dark",
         descrição: "Layout simples, site da série Dark, desenvolvido para um trabalho da faculdade.",
