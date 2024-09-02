@@ -5,6 +5,7 @@ import dark from '../../assets/imagens/dark.gif';
 import api from '../../assets/imagens/rickandmorty.gif';
 import calculando from '../../assets/imagens/calculando.PNG';
 import form from '../../assets/imagens/form.gif';
+import blog from '../../assets/imagens/blog.gif';
 
 
 const ImagemCard = ({imagem}) => {
@@ -18,6 +19,7 @@ const ImagemCard = ({imagem}) => {
           case "dark":  return <img src={dark}/>;
           case "calculando":  return <img src={calculando}/>;
           case "form":  return <img src={form}/>;
+          case "blog": return < img src={blog}/>
   
           default:      return <h1>No project match</h1>
         }

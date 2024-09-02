@@ -7,6 +7,13 @@ export const Dados = [
         tecnologias: ["Html","Css","JavaScript","Php"]
     },
     {
+        img: "blog",
+        titulo: "Blog React",
+        descrição: "Projeto blog desenvolvido para praticar o uso de React Hooks, context e a comunicação do React com o Firebase.",
+        link: "https://carolinitsi.github.io/meu-blog",
+        tecnologias: ["React", "Firebase", "Css"]
+    },
+    {
         img: "api",
         titulo: "Consumo de API",
         descrição: "Projeto desenvolvido para o estudo do consumo de API, utilizando o framework react.",
