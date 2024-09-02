@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/portif-lio-react/static/css/main.f855e6bc.css",
-    "main.js": "/portif-lio-react/static/js/main.7d765f11.js",
+    "main.js": "/portif-lio-react/static/js/main.a0719af4.js",
     "static/js/453.9c226ca7.chunk.js": "/portif-lio-react/static/js/453.9c226ca7.chunk.js",
     "static/media/programamina.gif": "/portif-lio-react/static/media/programamina.923884ad8fc1c2701fdf.gif",
     "static/media/viagens.gif": "/portif-lio-react/static/media/viagens.f6d61bbcbc51ef58e2f1.gif",
+    "static/media/blog.gif": "/portif-lio-react/static/media/blog.4f6a851bdd1237e29c9b.gif",
     "static/media/dark.gif": "/portif-lio-react/static/media/dark.d5c5b5e34ae69a545081.gif",
     "static/media/rickandmorty.gif": "/portif-lio-react/static/media/rickandmorty.d6653d44cd054b736f6f.gif",
     "static/media/form.gif": "/portif-lio-react/static/media/form.c8b080b820fb166860cf.gif",
@@ -12,11 +13,11 @@
     "static/media/me.jpeg": "/portif-lio-react/static/media/me.104d1e943c0ec0162f2c.jpeg",
     "index.html": "/portif-lio-react/index.html",
     "main.f855e6bc.css.map": "/portif-lio-react/static/css/main.f855e6bc.css.map",
-    "main.7d765f11.js.map": "/portif-lio-react/static/js/main.7d765f11.js.map",
+    "main.a0719af4.js.map": "/portif-lio-react/static/js/main.a0719af4.js.map",
     "453.9c226ca7.chunk.js.map": "/portif-lio-react/static/js/453.9c226ca7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.7d765f11.js"
+    "static/js/main.a0719af4.js"
   ]
 }
